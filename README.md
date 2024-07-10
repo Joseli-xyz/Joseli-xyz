@@ -3,7 +3,8 @@
 **`Digital & Electrical Craftsman (Programmer/Electrician/Tester)`**
 <img align="right" alt="Coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FYkZog3vCYdT9u%2Fsource.gif&f=1&nofb=1&ipt=a6a7de738aaead3bac783e729159ad910c522a86ee559ee1f1a5c8da6185710d&ipo=images">
 
-Im a Web & App Developer and an Electronics Student
+Refer to me as José Elías
+Web Developer & Electronics Dev Student
 
 <details>
  <summary><h3>The Journey</h3></summary>
